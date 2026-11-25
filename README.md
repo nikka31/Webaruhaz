@@ -1,1 +1,6 @@
-# Webaruhaz
+# Webáruház
+
+## Oldalak
+
+- Főoldal
+- Termékek
