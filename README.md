@@ -4,7 +4,9 @@ termékek/főoldal: Viki
 
 1 termék: Árnika
 
-kosár: Panka ![Felhasználók](tervrajzok/kosar.png)
+kosár: Panka 
+
+![Felhasználók](tervrajzok/kosar.png)
 
 ## Áru típusok
 
@@ -16,7 +18,9 @@ Játékok: Panka
 
 # Admin
 
-felhasználók: Panka ![Felhasználók](tervrajzok/admin_felhasznalok.png)
+felhasználók: Panka 
+
+![Felhasználók](tervrajzok/admin_felhasznalok.png)
 
 termékek:Vikii
 
