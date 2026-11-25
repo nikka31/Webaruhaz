@@ -18,6 +18,6 @@ Játékok: Panka
 
 felhasználók: Panka ![Felhasználók](tervrajzok/admin_felhasznalok.png)
 
-termékek:
+termékek:Vikii
 
 rendelések:
