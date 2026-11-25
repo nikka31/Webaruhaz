@@ -1,18 +1,19 @@
-<<<<<<< HEAD
 # Webáruház
 
 ## Oldalak
 
 - Főoldal
 - Termékek
-=======
-# Webaruhaz
+
+# Webáruház
 
 termékek/főoldal: Viki
 
 1 termék: Árnika
 
-kosár: Panka
+kosár: Panka 
+
+![Felhasználók](tervrajzok/kosar.png)
 
 ## Áru típusok
 
@@ -24,9 +25,10 @@ Játékok: Panka
 
 # Admin
 
-felhasználók: Panka
+felhasználók: Panka 
 
-termékek:
+![Felhasználók](tervrajzok/admin_felhasznalok.png)
+
+termékek:Vikii
 
 rendelések:
->>>>>>> 7b8e4d774f70f6578f06b6547b336dd84330173a
